@@ -405,7 +405,7 @@ body.dark-theme {
 }
 
 .filters__active[data-content] {
-  display: grid;
+  display: flex;
 }
 
 /* Activate button filter */
