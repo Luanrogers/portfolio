@@ -368,7 +368,6 @@ body.dark-theme {
 }
 
 .skills__box {
-  display: flex;
   justify-content: center;
   column-gap: 3rem;
 }
