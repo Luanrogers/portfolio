@@ -172,7 +172,6 @@ body.dark-theme {
 }
 
 .profile__border {
-  border: 2.5px solid var(--first-color);
   justify-self: center;
   border-radius: 50%;
   display: grid;
